@@ -1,3 +1,0 @@
-- Nome: Raphael Balmant Rodrigues Chaves
-- Curso: Matemática
-- Matrícula: 20200029525
